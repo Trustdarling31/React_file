@@ -1,0 +1,17 @@
+.Service{
+    flex: 1;
+}
+.Service :nth-child(1){
+  font-size:40px;
+  font-weight: bolder;
+}
+.span1{
+    font-family: serif;
+    color: rgb(22, 22, 85);
+    font-weight: bolder;
+    text-shadow: 1px 2px 1px  rgb(212, 223, 69); 
+    font-size: 18px;
+}
+.btn2{
+    margin-top: 1.7cm;
+}

@@ -1,0 +1,50 @@
+
+.Head{
+    margin-left: 6cm;
+    margin-top: 3cm;
+    height: 10cm;
+    width: 25cm
+}
+.Head>:nth-child(1){
+     font-size:40px;
+     font-weight: bold;
+     position: relative;
+     top:2.5cm;
+     right: -2cm;
+     
+}
+.Head>:nth-child(3){
+    color: orange;
+    font-size:35px ;
+    font-weight: bold;
+    margin-top: -3cm;
+    position: relative;
+    top: 2.4cm;
+    right: -2cm;
+}
+.form input{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 9cm;
+    height: 1cm;
+    width: 10cm;
+    font-size:20px;
+    border-radius: 5px;
+    background-color: #bfae99;
+}
+.user{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left: 9cm;
+    height: 2cm;
+    width:10cm ;
+    border-radius: 10px;
+    font-size:20px;
+    background-color: #bfae99;
+}
+.c-btn{
+    margin-left: 13.6cm;
+    margin-top: 0.7cm;
+}

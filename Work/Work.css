@@ -1,0 +1,100 @@
+
+.f-work>:nth-child(1){
+    font-size:xx-large;
+    font-weight: bold;
+}
+.f-work>:nth-child(3){
+    font-size:x-large;
+    font-weight: bold;
+    color: orange;
+}
+.f-work>:nth-child(5){
+    font-size:15px;
+    font-weight: bold;
+    color: rgb(22, 22, 85);
+    text-shadow:1px 2px 1px  rgb(212, 223, 69) ;
+    font-family: serif;
+}
+.btn3{
+    margin-top: 1.2cm;
+}
+.circle{
+    background-color: white;
+    width:10cm;
+    height:10cm;
+    border-radius:100% ;
+    margin-left: 20cm;
+    margin-top: -6.5cm;
+    box-shadow: inset 0px 0px 10px black;
+    justify-content: center;
+}
+.amazon{
+    background-color: white;
+    width:3cm;
+    height:3cm;
+    border-radius:100% ;
+    box-shadow: 0px 0px 2px black;
+}
+.am4{
+    margin-left: 3.5cm;
+    margin-top: -5cm;
+}
+.am1{
+    position:relative;
+    left: 3.4cm;
+    top:-1cm;
+    justify-content: center;
+    text-align: center;
+}
+.am2{
+    position: relative;
+    left: -1.1cm;
+    top: 1cm;
+    justify-content: center;
+    text-align: center;
+}
+.am3{
+    position: relative;
+    top:2cm;
+    left:3.7cm;
+    justify-content: center;
+    text-align: center;
+}
+.am2 img{
+    width: 2cm;
+    height: 2cm;
+    margin-top: 0.5cm;
+}
+.am1 img{
+    width: 2cm;
+    height: 2cm;
+    margin-top: 0.5cm;
+}
+.am3 img{
+    width: 2cm;
+    height: 2cm;
+    margin-top: 0.5cm;
+}
+.b-circle{
+    position:absolute;
+    background-color: rgb(11, 11, 77);
+    width:6cm;
+    height:6cm;
+    border-radius:100% ;
+    margin-left: 25cm;
+    margin-top: -5.5cm;
+    box-shadow:  0px 0px 2px black;
+    z-index:-1;
+
+}
+.l-circle{
+    position: absolute;
+    background-color:orange;
+    width:6cm;
+    height:6cm;
+    border-radius:100% ;
+    margin-left: 25cm;
+    margin-top: -10cm;
+    box-shadow: 0px 0px 1px black;
+    z-index: -1;
+}

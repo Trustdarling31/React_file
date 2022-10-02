@@ -1,0 +1,53 @@
+.FloatingDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: antiquewhite;
+    width: 20rem;
+    border-radius: 15px;
+      margin-left:16cm;
+}
+.FloatingDiv{
+  position: relative;
+  top:1cm;
+  left: -2.5cm;
+  background: linear-gradient(gray,#D9c9c7);
+}
+.FloatingDiv span{
+  font-weight:bold;
+  font-size:25px ;
+}
+.Mog{
+position: relative;
+}
+
+.Mog>:nth-child(1) {
+  position: relative;
+  top: -4.5cm;
+  left: 1cm;
+}
+.Mog>:nth-child(2){
+  position: relative;
+  top: -4cm;
+  left:2.5cm;
+}
+.Div2{
+  position: relative;
+  top: 0.3cm;
+  left: 1.5cm;
+  width:7.2cm;
+  height:2.7cm;
+  justify-content: center;
+  background: linear-gradient(gray,#D9c9c7);
+  border-radius:20px;
+   z-index: 1;
+}
+ 
+.Div2 img{
+  height: 2.5cm;
+}
+.Div2 span{
+  position: relative;
+  top: -1cm;
+  font-weight:bold;
+}

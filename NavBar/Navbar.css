@@ -1,0 +1,44 @@
+*{
+    /* border: 1px solid orange; */
+}
+.n-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 10vh;
+}
+.n-left{
+    display: flex;
+    gap:2rem
+}
+.n-left span{
+    margin-top:18px;
+}
+.n-name{
+    font-size:25px;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.n-right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.n-list {
+position: relative;
+}
+.n-list ul{
+    display: flex;
+    margin-right: 4rem;
+    gap: 2rem;
+    list-style-type: none;
+}
+.n-list ul>:hover{
+    color: gold;
+    cursor: pointer;
+}
+.n-button{
+    margin-left: 1opx;
+}

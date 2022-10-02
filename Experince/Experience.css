@@ -1,0 +1,49 @@
+.experience{
+    margin-left:20cm;
+    margin-top: -5cm;
+    height:9cm;
+    width: 7cm;
+    background-color: rgb(250, 204, 148);
+    align-items: center;
+    justify-content: center;
+     box-shadow: inset 0px 0px 10px rgb(173, 131, 52);
+     border-radius: 5px;
+}
+.experience img{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.sp{
+    margin-left: 70px;
+    font-size: 25px;
+    font-weight:bold;
+}
+.experience2{
+    margin-left: 10cm;
+    height:9cm;
+    width: 7cm;
+    background-color: rgb(250, 204, 148);
+    align-items: center;
+    justify-content: center;
+     box-shadow: inset 0px 0px 10px rgb(173, 131, 52);
+     border-radius: 5px;
+}
+.experience2 img{
+    margin-top: -20px;
+    margin-left: 70px;
+}
+.experience3{
+    margin-top: -5cm;
+    margin-left: 24cm;
+    height:9cm;
+    width: 7cm;
+    background-color: rgb(250, 204, 148);
+    align-items: center;
+    justify-content: center;
+     box-shadow: inset 0px 0px 10px rgb(173, 131, 52);
+     border-radius: 5px;
+}
+.experience3 img{
+    margin-top: -20px;
+    margin-left: 70px;
+}
